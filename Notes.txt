@@ -1,0 +1,10 @@
+Comandos basicos de go 
+
+- go mod init example/example crea un modulo
+
+- go run .     compila una aplicacion de Go 
+
+- go help     te enseña los comandos disponibles en go 
+
+- go mod tidy     instala modulos y paquetes  importados
+
