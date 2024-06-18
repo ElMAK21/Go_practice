@@ -39,7 +39,7 @@ func main() {
 
 	appUser = newUser(userFirstName, userLastName, userBirthdate)
 
-	// ... do something awesome with that gathered data!
+	// ... haz un truco wey
 	appUser.outputUserDetails()
 	appUser.clearUserName()
 	appUser.outputUserDetails()
